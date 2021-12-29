@@ -1,0 +1,26 @@
+{
+  "name": "cryptowallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucious312/crpytowallet.git"
+  },
+  "keywords": [
+    "cryptographic",
+    "wallet"
+  ],
+  "author": "luci wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucious312/crpytowallet/issues"
+  },
+  "homepage": "https://github.com/lucious312/crpytowallet#readme",
+  "devDependencies": {
+    "hardhat": "^2.8.0"
+  }
+}
